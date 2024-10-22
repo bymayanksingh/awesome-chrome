@@ -76,6 +76,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [AutoPagerize](https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp) - Auto loading paginated web pages.
 * [CVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - Adding Vim-like bindings to Google Chrome.
+* [Chroma Palette](https://chromewebstore.google.com/detail/chroma-palette-%F0%9F%8E%A8/miokoikjlpbhhfepkneagdjmgakendep) - Chroma Palette 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific colors using a uploaded image.
 * [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied) - Replaces your new tab with curated latest dev articles. 
 * [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
 * [Detox](http://usedetox.com) - Replace your Facebook feed with something positively distracting.
